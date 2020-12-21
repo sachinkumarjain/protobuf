@@ -7,7 +7,7 @@ Copyright 2008 Google Inc.
 
 https://developers.google.com/protocol-buffers/
 
-C++ Installation - Unix
+C++ Installation - Unix / Linux
 -----------------------
 
 To build protobuf from source, the following tools are needed:
